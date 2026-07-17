@@ -17,10 +17,6 @@
 
 - SumOfDigits.java
 
-## Bonus
-
-- PalindromeNumber.java
-
 ## Difficulty
 
 ⭐⭐⭐ Medium

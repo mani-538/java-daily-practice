@@ -16,10 +16,6 @@
 
 - EvenOddSeries.java
 
-## Bonus
-
-- CountdownTimer.java
-
 ## Difficulty
 
 ⭐⭐ Easy-Medium
